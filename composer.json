@@ -1,0 +1,6 @@
+{
+    "require": {
+        "rmccue/requests": "^1.7",
+        "predis/predis": "^1.1"
+    }
+}
